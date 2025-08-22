@@ -1,0 +1,8 @@
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\bin\Debug\Ejercicio 5 tp1.exe.config
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\bin\Debug\Ejercicio 5 tp1.exe
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\bin\Debug\Ejercicio 5 tp1.pdb
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\obj\Debug\Ejercicio 5 tp1.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\obj\Debug\Ejercicio 5 tp1.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\obj\Debug\Ejercicio 5 tp1.exe
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\obj\Debug\Ejercicio 5 tp1.pdb
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 5 tp1\Ejercicio 5 tp1\obj\Debug\Ejercicio 5 tp1.exe.config
