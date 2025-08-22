@@ -1,0 +1,8 @@
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\bin\Debug\Ejercicio 4 TP1.exe.config
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\bin\Debug\Ejercicio 4 TP1.exe
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\bin\Debug\Ejercicio 4 TP1.pdb
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\obj\Debug\Ejercicio 4 TP1.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\obj\Debug\Ejercicio 4 TP1.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\obj\Debug\Ejercicio 4 TP1.exe
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\obj\Debug\Ejercicio 4 TP1.pdb
+C:\Users\Melina\Desktop\Programacion1\Ejercicio 4 TP1\Ejercicio 4 TP1\obj\Debug\Ejercicio 4 TP1.exe.config
