@@ -55,7 +55,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(96, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Ingresa 3 Numeros";
+            this.label1.Text = "Ingresa 5 Numeros";
             // 
             // textBox1
             // 
@@ -89,7 +89,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(96, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Ingresa 3 Numeros";
+            this.label2.Text = "Ingresa 5 Numeros";
             // 
             // textBox2
             // 

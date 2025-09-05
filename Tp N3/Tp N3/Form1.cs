@@ -40,7 +40,7 @@ namespace Tp_N3
        
         private void button3_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 5; i++)
             {
                 
                 int resultado = (listaValores1[i] + listaValores2[i]);
