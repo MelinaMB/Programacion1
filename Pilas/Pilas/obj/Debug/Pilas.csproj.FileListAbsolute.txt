@@ -1,0 +1,10 @@
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\bin\Debug\Pilas.exe.config
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\bin\Debug\Pilas.exe
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\bin\Debug\Pilas.pdb
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.Form1.resources
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.Properties.Resources.resources
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.csproj.GenerateResource.cache
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.exe
+C:\Users\melin\Desktop\Programacion1\Pilas\Pilas\obj\Debug\Pilas.pdb

@@ -13,7 +13,7 @@ namespace Pilas
         public MiNodo Tope() { 
             return tope;
         }
-        void Apilar(MiNodo unNodo) {
+         public void Apilar(MiNodo unNodo) {
 
             if (tope == null)
             {
@@ -28,7 +28,7 @@ namespace Pilas
         
         }
 
-        void Desapilar() {
+        public void Desapilar() {
             if (tope != null) { 
 
                 tope = tope.Siguiente;
