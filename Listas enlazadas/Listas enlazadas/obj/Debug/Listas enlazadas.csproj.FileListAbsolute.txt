@@ -1,0 +1,11 @@
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\bin\Debug\Listas enlazadas.exe.config
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\bin\Debug\Listas enlazadas.exe
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\bin\Debug\Listas enlazadas.pdb
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas_enlazadas.Form1.resources
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas_enlazadas.Properties.Resources.resources
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.csproj.GenerateResource.cache
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.exe
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.pdb
+C:\Users\melin\Desktop\Programacion1\Listas enlazadas\Listas enlazadas\obj\Debug\Listas enlazadas.exe.config
