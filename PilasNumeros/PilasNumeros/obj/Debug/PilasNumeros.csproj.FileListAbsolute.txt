@@ -1,0 +1,11 @@
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\bin\Debug\PilasNumeros.exe.config
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\bin\Debug\PilasNumeros.exe
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\bin\Debug\PilasNumeros.pdb
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.Form1.resources
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.Properties.Resources.resources
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.csproj.GenerateResource.cache
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.exe
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.pdb
+C:\Users\melin\Desktop\Programacion1\PilasNumeros\PilasNumeros\obj\Debug\PilasNumeros.exe.config
