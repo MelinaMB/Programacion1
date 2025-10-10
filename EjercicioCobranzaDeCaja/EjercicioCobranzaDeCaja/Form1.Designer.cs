@@ -41,6 +41,8 @@
             this.textCantidadProductos = new System.Windows.Forms.TextBox();
             this.textImporte = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnPagarCajaRapida
@@ -155,11 +157,31 @@
             this.label3.TabIndex = 12;
             this.label3.Text = "Ingresar Importe";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(343, 179);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(130, 13);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Lista Clientes Caja Rapida";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(73, 179);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(129, 13);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Lista Clientes Caja Normal";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textImporte);
             this.Controls.Add(this.textCantidadProductos);
@@ -195,6 +217,8 @@
         private System.Windows.Forms.TextBox textCantidadProductos;
         private System.Windows.Forms.TextBox textImporte;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
     }
 }
 

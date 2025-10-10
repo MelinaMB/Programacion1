@@ -22,7 +22,7 @@ namespace EjercicioCobranzaDeCaja
         private void btnIngresarAlCliente_Click(object sender, EventArgs e)
         {
             String nombre = textNombreCliente.Text;
-            string cantidadProd = textCantidadProductos.Text;
+            String cantidadProd = textCantidadProductos.Text;
             String importeCliente = textImporte.Text;
 
             if (textNombreCliente.Text.Length == 0 || textCantidadProductos.Text.Length == 0 || textImporte.Text.Length == 0)
