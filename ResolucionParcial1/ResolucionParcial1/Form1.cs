@@ -14,9 +14,8 @@ namespace ResolucionParcial1
   
     {
 
-        Cola miCola = new Cola();
-        Cola miColaRapida = new Cola();
-        Cola miColaNormal = new Cola();
+        Cola colaCliente = new Cola();
+        
         public Form1()
         {
             InitializeComponent();
@@ -24,21 +23,43 @@ namespace ResolucionParcial1
 
         private void btnAgregar_Cliente_Click(object sender, EventArgs e)
         {
+            String nombre = textNombreCliente.Text;
+            string cantidadProd = textCantidadProductos.Text;
+            String importeCliente = textImporte.Text;
+
             if (textNombreCliente.Text.Length == 0 || textCantidadProductos.Text.Length == 0 || textImporte.Text.Length == 0)
             {
                 MessageBox.Show("Debe ingresar un valor");
             }
-            else { 
-                Cliente unNuevoCliente = new Cliente();
-                unNuevoCliente.Nombre = textNombreCliente.Text;
-                unNuevoCliente.Cantidad = int.Parse(textCantidadProductos.Text);
-                
-                unNuevoCliente.Importe = decimal.Parse(textImporte.Text);
+            else if (!System.Text.RegularExpressions.Regex.IsMatch(nombre, @"^[a-zA-Z\s]+$"))
+            {
+                MessageBox.Show("El nombre debe contener solo letras");
 
-                miCola.Encolar(unNuevoCliente);
-                
+            }
+            else if (!int.TryParse(cantidadProd, out int cantidad))
+            {
+
+                MessageBox.Show("La cantidad debe ser un numero entero");
+
+            }
+            else if (!decimal.TryParse(importeCliente, out decimal importe))
+            {
+
+                MessageBox.Show("El importe debe ser un numero valido decimal o entero");
+
+            }
+            else
+            {
+                Cliente unNuevoCliente = new Cliente
+                {
+                    Nombre = nombre,
+                    Cantidad = cantidad,
+                    Importe = importe
+                };
+
+
+                colaCliente.Encolar(unNuevoCliente);
                 MostrarCola();
-
                 textNombreCliente.Clear();
                 textCantidadProductos.Clear();
                 textImporte.Clear();
@@ -47,7 +68,7 @@ namespace ResolucionParcial1
 
         private void MostrarCola() { 
             lstClientes.Items.Clear();
-            MostrarClienteEnPantalla(miCola.inicioCliente);
+            MostrarClienteEnPantalla(colaCliente.InicioCliente);
         }
 
         private void MostrarClienteEnPantalla(Cliente unCliente) {
@@ -65,70 +86,41 @@ namespace ResolucionParcial1
 
         }
 
-        private void MostrarColaRapida(Cliente unCliente) {
-
-            if (unCliente != null)
-            {
-                lstColaRapida.Items.Add(unCliente);
-
-                if (unCliente.Siguiente != null) {
-
-                    MostrarColaRapida(unCliente.Siguiente);
-                    
-                }
-            }
-            
-        }
-
-        private void MostrarColaNormal(Cliente unCliente)
-        {
-
-            if (unCliente != null)
-            {
-                lstColaNormal.Items.Add(unCliente);
-
-                if (unCliente.Siguiente != null)
-                {
-
-                    MostrarColaNormal(unCliente.Siguiente);
-
-                }
-            }
-
-        }
-
-
+        public decimal totalNormal = 0;
+        public decimal totalRapida = 0;
 
         private void btnPagarCajaRapidaONormal_Click_1(object sender, EventArgs e)
         {
-            decimal totalNormal = 0;
-            decimal totalRapida = 0;
+            if (colaCliente.Vacia())
+            {
 
-                Cliente cliente = miCola.Desencolar();
-                if (miCola.Contar() > 0 && cliente.Cantidad <= 10)
+                MessageBox.Show("En la cola no hay clientes");
+            }
+            else
+            {
+
+                Cliente cliente = colaCliente.Desencolar();
+                if (cliente.Cantidad <= 10)
                 {
-                    
-
-                    miColaRapida.Encolar(cliente);
-                    MostrarColaRapida(cliente);
                     totalRapida += cliente.Importe;
                     label2.Text = $"Total Caja Rapido: ${totalRapida}";
-                    
+
 
                 }
-                else if (miCola.Contar() > 0 && cliente.Cantidad > 10)
+                else if (cliente.Cantidad > 10)
                 {
-                    
 
-                    miColaNormal.Encolar(cliente);
-                    MostrarColaNormal(cliente);
                     totalNormal += cliente.Importe;
                     label3.Text = $"Total Caja Normal: ${totalNormal}";
-                    
+
 
                 }
 
+            }
 
+            MostrarCola();
         }
+
+        
     }
 }

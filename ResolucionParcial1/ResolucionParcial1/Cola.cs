@@ -29,26 +29,31 @@ namespace ResolucionParcial1
 
         public Cliente Desencolar() {
 
-            
-            
-            return _inicioCliente = _inicioCliente.Siguiente;
+
+
+            if (_inicioCliente == null)
+            {
+                return null;
+            }
+
+            Cliente clienteAEliminar = _inicioCliente;
+            _inicioCliente = _inicioCliente.Siguiente;
+            return clienteAEliminar;
+
         }
 
 
-        public Cliente inicioCliente { 
+
+        public Cliente InicioCliente { 
 
             get { return _inicioCliente; }
         }
 
-        public int Contar() {
-            int contador = 0;
-            Cliente actual = _inicioCliente;
+        
 
-            while (actual != null) { 
-                contador ++;
-                actual = actual.Siguiente;
-            }
-            return contador;
+        public bool Vacia()
+        {
+            return (_inicioCliente == null);
         }
 
         private Cliente BuscarUltimo(Cliente unCliente)

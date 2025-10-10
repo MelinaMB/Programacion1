@@ -9,3 +9,14 @@ C:\Users\melin\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\D
 C:\Users\melin\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.exe
 C:\Users\melin\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.pdb
 C:\Users\melin\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.exe.config
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe.config
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.exe
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\bin\Debug\ResolucionParcial1.pdb
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.exe.config
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.Form1.resources
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.Properties.Resources.resources
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.csproj.GenerateResource.cache
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.exe
+C:\Users\Melina\Desktop\Programacion1\ResolucionParcial1\ResolucionParcial1\obj\Debug\ResolucionParcial1.pdb

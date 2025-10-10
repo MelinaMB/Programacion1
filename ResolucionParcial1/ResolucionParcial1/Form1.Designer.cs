@@ -32,8 +32,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textNombreCliente = new System.Windows.Forms.TextBox();
             this.btnPagarCajaRapidaONormal = new System.Windows.Forms.Button();
-            this.lstColaRapida = new System.Windows.Forms.ListBox();
-            this.lstColaNormal = new System.Windows.Forms.ListBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.btnAgregar_Cliente = new System.Windows.Forms.Button();
@@ -41,12 +39,13 @@
             this.textImporte = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lstClientes
             // 
             this.lstClientes.FormattingEnabled = true;
-            this.lstClientes.Location = new System.Drawing.Point(24, 23);
+            this.lstClientes.Location = new System.Drawing.Point(24, 36);
             this.lstClientes.Name = "lstClientes";
             this.lstClientes.Size = new System.Drawing.Size(157, 95);
             this.lstClientes.TabIndex = 0;
@@ -69,34 +68,18 @@
             // 
             // btnPagarCajaRapidaONormal
             // 
-            this.btnPagarCajaRapidaONormal.Location = new System.Drawing.Point(61, 150);
+            this.btnPagarCajaRapidaONormal.Location = new System.Drawing.Point(24, 174);
             this.btnPagarCajaRapidaONormal.Name = "btnPagarCajaRapidaONormal";
             this.btnPagarCajaRapidaONormal.Size = new System.Drawing.Size(207, 23);
             this.btnPagarCajaRapidaONormal.TabIndex = 4;
-            this.btnPagarCajaRapidaONormal.Text = "Pagar por Caja Rápida o Normal";
+            this.btnPagarCajaRapidaONormal.Text = "Pagar por Caja Rápida o Caja Normal";
             this.btnPagarCajaRapidaONormal.UseVisualStyleBackColor = true;
             this.btnPagarCajaRapidaONormal.Click += new System.EventHandler(this.btnPagarCajaRapidaONormal_Click_1);
-            // 
-            // lstColaRapida
-            // 
-            this.lstColaRapida.FormattingEnabled = true;
-            this.lstColaRapida.Location = new System.Drawing.Point(61, 179);
-            this.lstColaRapida.Name = "lstColaRapida";
-            this.lstColaRapida.Size = new System.Drawing.Size(187, 95);
-            this.lstColaRapida.TabIndex = 7;
-            // 
-            // lstColaNormal
-            // 
-            this.lstColaNormal.FormattingEnabled = true;
-            this.lstColaNormal.Location = new System.Drawing.Point(272, 179);
-            this.lstColaNormal.Name = "lstColaNormal";
-            this.lstColaNormal.Size = new System.Drawing.Size(192, 95);
-            this.lstColaNormal.TabIndex = 8;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(58, 331);
+            this.label2.Location = new System.Drawing.Point(21, 218);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(95, 13);
             this.label2.TabIndex = 9;
@@ -105,7 +88,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(269, 331);
+            this.label3.Location = new System.Drawing.Point(269, 228);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(94, 13);
             this.label3.TabIndex = 10;
@@ -153,11 +136,21 @@
             this.label5.TabIndex = 15;
             this.label5.Text = "Ingresar Importe";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(21, 9);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(69, 13);
+            this.label6.TabIndex = 16;
+            this.label6.Text = "Lista Clientes";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textImporte);
@@ -165,8 +158,6 @@
             this.Controls.Add(this.btnAgregar_Cliente);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.lstColaNormal);
-            this.Controls.Add(this.lstColaRapida);
             this.Controls.Add(this.btnPagarCajaRapidaONormal);
             this.Controls.Add(this.textNombreCliente);
             this.Controls.Add(this.label1);
@@ -184,8 +175,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textNombreCliente;
         private System.Windows.Forms.Button btnPagarCajaRapidaONormal;
-        private System.Windows.Forms.ListBox lstColaRapida;
-        private System.Windows.Forms.ListBox lstColaNormal;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnAgregar_Cliente;
@@ -193,6 +182,7 @@
         private System.Windows.Forms.TextBox textImporte;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
     }
 }
 
