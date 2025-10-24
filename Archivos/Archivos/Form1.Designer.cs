@@ -123,6 +123,11 @@
             // numDNI
             // 
             this.numDNI.Location = new System.Drawing.Point(513, 150);
+            this.numDNI.Maximum = new decimal(new int[] {
+            50000000,
+            0,
+            0,
+            0});
             this.numDNI.Name = "numDNI";
             this.numDNI.Size = new System.Drawing.Size(120, 20);
             this.numDNI.TabIndex = 10;
