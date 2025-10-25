@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-Apareo-Corte-Control", "Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control.csproj", "{6ECDC2EF-28D4-4053-B62D-DE6BF3FAD180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECDC2EF-28D4-4053-B62D-DE6BF3FAD180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECDC2EF-28D4-4053-B62D-DE6BF3FAD180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECDC2EF-28D4-4053-B62D-DE6BF3FAD180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECDC2EF-28D4-4053-B62D-DE6BF3FAD180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6850BB-B7F4-49E2-AFF4-898EFD5E8356}
+	EndGlobalSection
+EndGlobal

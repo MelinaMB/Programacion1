@@ -1,0 +1,10 @@
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\bin\Debug\Ejemplo-Apareo-Corte-Control.exe.config
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\bin\Debug\Ejemplo-Apareo-Corte-Control.exe
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\bin\Debug\Ejemplo-Apareo-Corte-Control.pdb
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo-Apareo-Corte-Control.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo_Apareo_Corte_Control.Form1.resources
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo_Apareo_Corte_Control.Properties.Resources.resources
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo-Apareo-Corte-Control.csproj.GenerateResource.cache
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo-Apareo-Corte-Control.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo-Apareo-Corte-Control.exe
+C:\Users\Melina\Desktop\Programacion1\Ejemplo-Apareo-Corte-Control\Ejemplo-Apareo-Corte-Control\obj\Debug\Ejemplo-Apareo-Corte-Control.pdb
