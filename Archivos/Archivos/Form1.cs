@@ -33,8 +33,8 @@ namespace Archivos
 
         private void LlenarGrilla()
         {
-            this.dataGridView1.DataSource = null;
-            this.dataGridView1.DataSource = alumnos.Lista();
+            this.dataGridView1.DataSource = null; // borra todos los datos que hay en la grilla 
+            this.dataGridView1.DataSource = alumnos.Lista(); // devuelve una lista con los alumnos
         }
 
         private void btnBaja_Click(object sender, EventArgs e)

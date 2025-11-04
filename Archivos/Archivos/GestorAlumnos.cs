@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Archivos
 {
     internal class GestorAlumnos
-    {
+    {// manipulo el archivo
 
         string archivo = "alumnos.txt";
 
@@ -29,7 +29,7 @@ namespace Archivos
 
         public void Baja(long DNI) {
             //dar de baja un alumno
-            // se va a crear un nuevo archivo sin el alumno
+            // se va a crear un nuevo archivo sin el alumno que quiero dar de baja
 
             string output = string.Empty;
             FileStream fs = new FileStream(archivo, FileMode.OpenOrCreate, FileAccess.Read);
@@ -59,6 +59,8 @@ namespace Archivos
             fs.Close();
         }
 
+        // funcion lista va a recorrer el archivo y va a devolver una lista de objetos alumno
+        //cada objeto va a representar un registro del archivo de alumnos
         public List<Alumnos> Lista()
         {
             List<Alumnos> lista = new List<Alumnos>();
