@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Listas
 {
-    internal class Nodo
+    public class Nodo
     {
+        public string Nombre;
+        public Nodo Siguiente;
     }
 }

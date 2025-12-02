@@ -1,0 +1,11 @@
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.cache
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\Melina\Desktop\Programacion1\Listas\Listas\obj\Debug\Listas.exe.config
