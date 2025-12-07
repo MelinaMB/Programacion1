@@ -1,0 +1,11 @@
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.csproj.AssemblyReference.cache
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.Form1.resources
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.Properties.Resources.resources
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.csproj.GenerateResource.cache
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.csproj.CoreCompileInputs.cache
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\bin\Debug\ListasEnlazadasSimples.exe.config
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\bin\Debug\ListasEnlazadasSimples.exe
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\bin\Debug\ListasEnlazadasSimples.pdb
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.exe
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.pdb
+C:\Users\Melina\Desktop\Programacion1\ListasEnlazadasSimples\ListasEnlazadasSimples\obj\Debug\ListasEnlazadasSimples.exe.config
