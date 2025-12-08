@@ -11,6 +11,5 @@ namespace Pilas
         public string Nombre { get; set; }
         public MiNodo Siguiente { get; set; }
 
-
     }
 }
