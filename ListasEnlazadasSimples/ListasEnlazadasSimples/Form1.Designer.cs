@@ -124,6 +124,7 @@
             this.btnIntercambiarDerecha.TabIndex = 8;
             this.btnIntercambiarDerecha.Text = "Intercambiar Derecha";
             this.btnIntercambiarDerecha.UseVisualStyleBackColor = true;
+            this.btnIntercambiarDerecha.Click += new System.EventHandler(this.btnIntercambiarDerecha_Click);
             // 
             // btnIntercambiarIzquierda
             // 
@@ -133,6 +134,7 @@
             this.btnIntercambiarIzquierda.TabIndex = 9;
             this.btnIntercambiarIzquierda.Text = "Intercambiar Izquierda";
             this.btnIntercambiarIzquierda.UseVisualStyleBackColor = true;
+            this.btnIntercambiarIzquierda.Click += new System.EventHandler(this.btnIntercambiarIzquierda_Click);
             // 
             // textBox2
             // 

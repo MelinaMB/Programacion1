@@ -140,5 +140,15 @@ namespace ListasEnlazadasSimples
                 MessageBox.Show("Ingresa un número entero válido.", "Error");
             }
         }
+
+        private void btnIntercambiarDerecha_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnIntercambiarIzquierda_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
