@@ -1,0 +1,5 @@
+Apellido,Legajo,ValorPromedio
+Lala,1,8
+Co,2,5,66666666666667
+Pepa,3,7
+Didi,4,8
